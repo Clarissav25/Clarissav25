@@ -20,3 +20,4 @@ My GitHub page is http://github.com/Clarissav25.
 
     Lab 8, part 1 was one of my favorites because it was my first time creating a program that has a three loop pattern. I was able to use my knowledge on loops that were given in class and my homework to create a pattern that had at least one loop in it. 
 
+I love Computer Science!
